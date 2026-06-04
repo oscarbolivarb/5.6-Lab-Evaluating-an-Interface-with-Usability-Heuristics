@@ -70,9 +70,13 @@ By creating a side by side comparison feature this would allow users to be able 
 
 Reflection  
 
-The heuristic that helped identify usability issues was the Recognition Rather Than Recall. While users use Airbnb they need to compare many different properties and this often means remembering information from previous viewed listings. Here a comparison feature would reduce the amount of information the user needs to remember in order to make their decision making process easier.   
+The heuristic that helped identify usability issues was the Recognition Rather Than Recall. While users use Airbnb they need to compare many different properties and this often means remembering information from previous viewed listings. Here a comparison feature would reduce the amount of information the user needs to remember in order to make their decision making process easier.  
+
 One limitation of the heuristic evaluation is that it is based on the evaluator’s opinion instead of feedback from real users. An issue that seems important to an evaluator may not actually cause problems for the user. 
+
 User testing allows designers to see how people really interact with the system and this can reveal issues that might have not been found during a heuristic evaluation. For this reason, the heuristic evaluation is valuable since it shows potential usability issues, especially when it’s combined with user based testing.   
+
+
 References
 	
 Airbnb. (2026). Airbnb. https://www.airbnb.com
