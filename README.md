@@ -1,10 +1,13 @@
 # 5.6-Lab-Evaluating-an-Interface-with-Usability-Heuristics
-Heuristic evluation of the Airbnb Interface
+
 5.6 Lab | Evaluating an Interface with Usability Heuristics
 
 Interface Overview
+
 Interface Name: Airbnb  
+
 URL: https://www.airbnb.com
+
 Airbnb is an online platform that allows users to search for properties and book them for a short term, they have properties around the world. The users are people who are looking to travel to places to stay in properties that other people own such as houses, apartments, boats and more. The main purpose of the website is to help users find accommodations, communicate with hosts and complete reservations. 
 Heuristic Evaluation Results
 1.	Visibility of System Status
